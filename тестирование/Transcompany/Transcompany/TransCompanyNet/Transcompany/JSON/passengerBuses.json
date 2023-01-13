@@ -1,0 +1,23 @@
+[
+  {
+    "PassengersCapacity": 50,
+    "Model": "Mercedes-Benz",
+    "MaxSpeed": 90,
+    "MaxDriveDistance": 2000,
+    "MaxLoadCapacity": 5000
+  },
+  {
+    "PassengersCapacity": 80,
+    "Model": "Scania",
+    "MaxSpeed": 120,
+    "MaxDriveDistance": 2000,
+    "MaxLoadCapacity": 7000
+  },
+  {
+    "PassengersCapacity": 70,
+    "Model": "Man",
+    "MaxSpeed": 110,
+    "MaxDriveDistance": 2000,
+    "MaxLoadCapacity": 6000
+  }
+]
